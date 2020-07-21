@@ -1,2 +1,2 @@
-# Sergey David Ioffe (Sergey Ioffe)  
+# Sergey Ioffe | Sergey David Ioffe
 Google Sites https://sites.google.com/site/sergeyioffe
