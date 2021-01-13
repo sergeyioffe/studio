@@ -1,5 +1,5 @@
 # Studio Sergey Ioffe 
   
-on wixsites https://sergeyioffe.wixsites.com/studio  
+on wixsites https://sergeyioffe.wixsite.com/studio  
 
 
