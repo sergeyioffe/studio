@@ -1,2 +1,5 @@
-# Sergey Ioffe
-on Google Sites https://sites.google.com/site/sergeyioffe
+# Studio Sergey Ioffe 
+  
+on wixsites https://sergeyioffe.wixsites.com/studio  
+
+
